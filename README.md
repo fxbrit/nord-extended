@@ -1,5 +1,5 @@
 # nord-extended
-[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) theme in the [Nord](https://www.nordtheme.com/) color scheme.
+[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) theme in the [Nord](https://www.nordtheme.com/) color scheme.
 
 ![screenshot](screenshot.png)
 
